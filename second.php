@@ -10,7 +10,7 @@ echo "this is the second page";
 ?> 
 <p><a href="third.php">third page </a> <br /> - Went to third page</p>
 
-<form action="index.html">
+<form action="index.php">
 <button type="submit" formaction = "index.html">index page</button>
 </form>
 
